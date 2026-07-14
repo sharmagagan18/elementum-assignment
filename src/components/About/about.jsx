@@ -1,5 +1,5 @@
 import person4 from "../../assets/images/person4.jpg";
-import "./About.css";
+import "./about.css";
 
 function About() {
   return (
