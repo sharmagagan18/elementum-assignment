@@ -1,6 +1,6 @@
 import "./footer.css";
 
-function footer() {
+function Footer() {
   return (
     <footer className="footer">
       <div className="footer-logo">
