@@ -1,4 +1,4 @@
-import "./Hero.css";
+import "./hero.css";
 
 import person1 from "../../assets/images/person.jpg";
 import person2 from "../../assets/images/person2.jpg";
